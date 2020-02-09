@@ -14,6 +14,6 @@ The goal is to create two tidy datasets and output the second tidy dataset to a 
 
 ## Files in the repository
   
-- `run_analysis.R`: the scrip that perform all the analysis (details in the file `CodeBook.md`)
+- `run_analysis.R`: the script that perform all the analysis (details in the file `CodeBook.md`)
 - `CodeBook.md`: the code book that describes the variables, the data, and any transformations and work performed to clean up the data
 - `output.txt`: the final tidy dataset
